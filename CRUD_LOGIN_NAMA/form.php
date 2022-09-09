@@ -13,7 +13,8 @@
 <body>
     <div style="padding: 50px;">
     <form action="session.php" method="post">
-      <marquee behavior="" direction=""><h2>Niji25 hospital(depression people)</h2></marquee>
+    
+      <marquee behavior="" direction=""><img src="https://static.wikia.nocookie.net/projectsekai/images/9/98/Stamp0444.png" alt="" class="img" width="90" height="80"><h2>Niji25 hospital(depression people)</h2></marquee>
         <div>
             Username : 
             <br>
