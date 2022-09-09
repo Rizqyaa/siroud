@@ -21,7 +21,8 @@ $query = $db->query('select * from user');
 <div class="container">
 <a href="admin.php" class="btn btn-outline-secondary">Kembali</a>
 <div class="d-grid gap-2 col-2 mx-auto">
-<h2 class="text-center">Data User</h2>
+  <img src="https://static.wikia.nocookie.net/projectsekai/images/2/24/Stamp0425.png" alt="" class="text-center" width="110" height="100">
+<h2 class="text-center">Data User</h2> 
 <a href="tambah.php" class="btn btn-outline-primary mb-3">Insert</a>
 </div>
 <div class="d-grid gap-2 col-6 mx-auto">
